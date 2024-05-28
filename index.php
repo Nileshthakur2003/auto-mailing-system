@@ -1,0 +1,1 @@
+# Code for PHP Auto mailing system.
